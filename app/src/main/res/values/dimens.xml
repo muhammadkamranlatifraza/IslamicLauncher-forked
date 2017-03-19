@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="icon_margin_left">0dp</dimen>
+    <dimen name="icon_margin_right">10dp</dimen>
+    <dimen name="icon_margin_top">5dp</dimen>
+    <dimen name="icon_margin_bottom">5dp</dimen>
+
+    <dimen name="result_margin_left">10dp</dimen>
+    <dimen name="result_margin_right">10dp</dimen>
+    <dimen name="result_margin_top">2dp</dimen>
+    <dimen name="result_margin_bottom">2dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+
+    <dimen name="result_title_size">18sp</dimen>
+    <dimen name="result_subtitle_size">16sp</dimen>
+
+    <dimen name="big_btn_size">80dp</dimen>
+    <dimen name="name_size">70dp</dimen>
+    <dimen name="clock_size">48dp</dimen>
+    <dimen name="meaning_size">25dp</dimen>
+    <dimen name="name_margin_size">50dp</dimen>
+    <dimen name="text_size">15dp</dimen>
+
+    <dimen name="icon_size">48dp</dimen>
+    <dimen name="icon_layout_size">64dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+</resources>
